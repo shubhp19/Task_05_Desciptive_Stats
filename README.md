@@ -19,7 +19,7 @@ This project investigates how well a large language model (LLM) can interpret st
 
 ## 🧮 Python Workflow
 
-**File**: `python_stats-Copy1.ipynb`
+**File**: `python_phase2.ipynb`
 
 Libraries used:
 - `csv`, `statistics`, `collections`, `matplotlib`
