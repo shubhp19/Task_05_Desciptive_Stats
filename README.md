@@ -51,8 +51,6 @@ Analysis performed:
 1. Create a bar chart of the top 5 scorers
 2. Rank top 5 players by total points
 3. Use a custom formula: `PTS + AST + TOT` to find most impactful players
-4. Identify a bench player to promote based on per-game performance
-5. Discuss LLM limitations where game logs were missing
 
 ➡️ All answers were validated using Python  
 ➡️ LLM handled custom metrics and visualization tasks well
